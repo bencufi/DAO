@@ -1,6 +1,6 @@
 # Bencu-dao
 
-Vyper contracts used in the [Bencu](https://www.bencu.io/) Governance DAO.
+Vyper contracts used in the [Bencu](https://bencu.fi) Governance DAO.
 
 ## Overview
 
@@ -19,8 +19,8 @@ Vyper contracts used in the [Bencu](https://www.bencu.io/) Governance DAO.
 To get started, first create and initialize a Python [virtual environment](https://docs.python.org/3/library/venv.html). Next, clone the repo and install the developer dependencies:
 
 ```bash
-git clone https://github.com/bencufi/Bencu-dao.git
-cd Bencu-dao
+git clone https://github.com/bencufi/DAO.git
+cd DAO
 pip install -r requirements.txt
 ```
 
